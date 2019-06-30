@@ -3,7 +3,7 @@
 Take a new look of blocks and items, etc. in Minecraft JE ( BE? Maybe Later…)
 
 ## To Do List:
-1) Take Blocks & items modification, making them more realistic.
+1) Take block & item models modifications, making them more realistic.
 2) Optifine adaption in case of the buggy rendering.
 3) Randomize some block textures to make them more scenic.
 4) Automatic altering weapons, tools & equipments with damage.
