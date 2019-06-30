@@ -1,5 +1,5 @@
 # Cerulean-Extension
-![cerulean_logo_4k](https://i.loli.net/2019/06/30/5d18c1d6e97ef92487.png)
+![cerulean_logo_2k](https://i.loli.net/2019/06/30/5d18c1d6e97ef92487.png)
 Take a new look of blocks and items, etc. in Minecraft JE ( BE? Maybe Later…)
 
 ## To Do List:
