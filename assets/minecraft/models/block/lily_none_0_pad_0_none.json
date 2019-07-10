@@ -1,0 +1,24 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"texture": "block/lotus",
+		"particle": "block/lotus"
+	},
+	"elements": [
+		{
+			"name": "pad",
+			"from": [0, 0.25, 0],
+			"to": [16, 0.25, 16],
+			"faces": {
+				"up": {"uv": [8, 0, 0, 8], "texture": "#texture", "tintindex": 0},
+				"down": {"uv": [8, 8, 0, 0], "texture": "#texture", "tintindex": 0}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "pad",
+			"children": [0]
+		}
+	]
+}

@@ -1,0 +1,50 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"texture": "block/lotus",
+		"particle": "block/lotus"
+	},
+	"elements": [
+		{
+			"name": "pad",
+			"from": [0, 4, 0],
+			"to": [16, 4, 16],
+			"faces": {
+				"up": {"uv": [8, 0, 0, 8], "texture": "#texture", "tintindex": 0},
+				"down": {"uv": [8, 8, 0, 0], "texture": "#texture", "tintindex": 0}
+			}
+		},
+		{
+			"name": "stem1",
+			"from": [7, 0, 7.5],
+			"to": [8, 4, 7.5],
+			"faces": {
+				"north": {"uv": [5, 14, 5.5, 16], "texture": "#texture"},
+				"east": {"uv": [0, 0, 0, 4], "texture": "#missing"},
+				"south": {"uv": [5, 14, 5.5, 16], "texture": "#texture"},
+				"west": {"uv": [0, 0, 0, 4], "texture": "#missing"},
+				"up": {"uv": [0, 0, 1, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 1, 0], "texture": "#missing"}
+			}
+		},
+		{
+			"name": "stem2",
+			"from": [7.5, 0, 7],
+			"to": [7.5, 4, 8],
+			"faces": {
+				"north": {"uv": [0, 0, 0, 4], "texture": "#missing"},
+				"east": {"uv": [4.5, 14, 5, 16], "texture": "#texture"},
+				"south": {"uv": [0, 0, 0, 4], "texture": "#missing"},
+				"west": {"uv": [4.5, 14, 5, 16], "texture": "#texture"},
+				"up": {"uv": [0, 0, 1, 0], "rotation": 270, "texture": "#missing"},
+				"down": {"uv": [0, 0, 1, 0], "rotation": 90, "texture": "#missing"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "pad",
+			"children": [0, 1, 2]
+		}
+	]
+}
