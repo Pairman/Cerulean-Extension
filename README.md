@@ -11,8 +11,9 @@ Cerulean Extension is a resourcepack which enables you to take a new look of blo
 5. Firstly on JE and then convert to BE if avaliable.
 
 ## Download It
-| STABILITY | GAME VER | Download |
-|:----------: | :----------: | :-----------: |
+
+| STABILITY | GAME VER | MEGA | Download |
+|:----------: | :----------: | :-----------: | :-----------: |
 | STABLE  | JE1.13+  | [Link](https://github.com/Pairman/Cerulean-Extension/releases/download/0.0.1beta/Cerulean-Extension-0.0.1beta.zip) |
 | OTHER  | OTHER  | [Link](https://github.com/Pairman/Cerulean-Extension/releases) |
 
