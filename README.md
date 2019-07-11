@@ -18,10 +18,9 @@ Cerulean Extension is a resourcepack which enables you to take a new look of blo
 | OTHER  | OTHER  | [Link](https://github.com/Pairman/Cerulean-Extension/releases) |
 
 ## How To Use
-Java版的材质包为zip格式，您可以将zip文件直接存放或解压至如下路径，随后在游戏设置中启用材质:
+Yoy can copy the zip or extract it to the following path and then enable it in the game settings.
 ```markdown
-  Windows: (Label)/Users/(User)/AppData/Roaming/.minecraft/resourcepacks/
-
+Windows: (Label)/Users/(User)/AppData/Roaming/.minecraft/resourcepacks/
 Linux: /home/(User)/.minecraft/resourcepacks/
 ```
 
