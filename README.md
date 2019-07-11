@@ -14,10 +14,11 @@ Cerulean Extension is a resourcepack which enables you to take a new look of blo
 
 | STABILITY | GAME VER | DOWNLOADS |
 |:----------: | :----------: | :-----------: |
-| STABLE  | JE1.13+  | [Link](https://github.com/Pairman/Cerulean-Extension/releases/download/0.0.1beta/Cerulean-Extension-0.0.1beta.zip) |
-| OTHER  | OTHER  | [Link](https://github.com/Pairman/Cerulean-Extension/releases) |
+| STABLE  | JE1.13+  | [0.0.1beta](https://github.com/Pairman/Cerulean-Extension/releases/download/0.0.1beta/Cerulean-Extension-0.0.1beta.zip) |
+| OTHER  | OTHER  | [OTHER](https://github.com/Pairman/Cerulean-Extension/releases) |
 
 ## How To Use
+Firstly download and check the resourcepack version to make sure it's compatible with your game version.
 Yoy can copy the zip or extract it to the following path and then enable it in the game settings.
 ```markdown
 Windows: (Label)/Users/(User)/AppData/Roaming/.minecraft/resourcepacks/
