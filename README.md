@@ -10,12 +10,20 @@ Cerulean Extension is a resourcepack which enables you to take a new look of blo
 4. Automatic altering weapons, tools & equipments with damage.
 5. Firstly on JE and then convert to BE if avaliable.
 
-## Download It
+## Download
 
 | STABILITY | GAME VER | DOWNLOADS |
 |:----------: | :----------: | :-----------: |
 | STABLE  | JE1.13+  | [Link](https://github.com/Pairman/Cerulean-Extension/releases/download/0.0.1beta/Cerulean-Extension-0.0.1beta.zip) |
 | OTHER  | OTHER  | [Link](https://github.com/Pairman/Cerulean-Extension/releases) |
+
+## How To Use
+Java版的材质包为zip格式，您可以将zip文件直接存放或解压至如下路径，随后在游戏设置中启用材质:
+```markdown
+  Windows: (Label)/Users/(User)/AppData/Roaming/.minecraft/resourcepacks/
+
+Linux: /home/(User)/.minecraft/resourcepacks/
+```
 
 ## Contact Me
 Bugs occured or have better ideas? You can contact me(Pairman) via these: 
