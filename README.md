@@ -14,7 +14,7 @@ Cerulean Extension is a resourcepack which enables you to take a new look of blo
 
 | STABILITY | GAME VER | DOWNLOADS |
 |:----------: | :----------: | :-----------: |
-| STABLE  | JE1.13+  | [0.0.1beta](https://github.com/Pairman/Cerulean-Extension/releases/download/0.0.1beta/Cerulean-Extension-0.0.1beta.zip) |
+| STABLE  | JE1.13+  | [0.0.2beta](https://github.com/Pairman/Cerulean-Extension/releases/download/0.0.2beta/Cerulean-Extension-0.0.2beta.zip) |
 | OTHER  | OTHER  | [OTHER](https://github.com/Pairman/Cerulean-Extension/releases) |
 
 ## How To Use
