@@ -2,7 +2,6 @@
 	"ambientocclusion": false,
 	"textures": {
 		"texture": "block/lotus",
-		"1_texture": "block/lotus",
 		"particle": "block/lotus"
 	},
 	"elements": [
@@ -183,62 +182,6 @@
 				"up": {"uv": [0, 0, 1, 0], "rotation": 270, "texture": "#missing"},
 				"down": {"uv": [0, 0, 1, 0], "rotation": 90, "texture": "#missing"}
 			}
-		},
-		{
-			"name": "petal1",
-			"from": [6, 8.25, 3],
-			"to": [9, 11.25, 3],
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [7.5, 8.25, 3]},
-			"faces": {
-				"north": {"uv": [8, 13.5, 9.5, 15], "texture": "#texture"},
-				"east": {"uv": [0, 0, 0, 3], "texture": "#missing"},
-				"south": {"uv": [8, 12, 9.5, 13.5], "texture": "#texture"},
-				"west": {"uv": [0, 0, 0, 3], "texture": "#missing"},
-				"up": {"uv": [0, 0, 3, 0], "texture": "#missing"},
-				"down": {"uv": [0, 0, 3, 0], "texture": "#missing"}
-			}
-		},
-		{
-			"name": "petal2",
-			"from": [6, 8.25, 6],
-			"to": [9, 11.25, 6],
-			"rotation": {"angle": 22.5, "axis": "x", "origin": [7.5, 8.25, 6]},
-			"faces": {
-				"north": {"uv": [9.5, 12, 11, 13.5], "texture": "#texture"},
-				"east": {"uv": [0, 0, 0, 3], "texture": "#missing"},
-				"south": {"uv": [9.5, 13.5, 11, 15], "texture": "#texture"},
-				"west": {"uv": [0, 0, 0, 3], "texture": "#missing"},
-				"up": {"uv": [0, 0, 3, 0], "texture": "#missing"},
-				"down": {"uv": [0, 0, 3, 0], "texture": "#missing"}
-			}
-		},
-		{
-			"name": "petal3",
-			"from": [9, 8.25, 3],
-			"to": [9, 11.25, 6],
-			"rotation": {"angle": -22.5, "axis": "z", "origin": [9, 8.25, 4.5]},
-			"faces": {
-				"north": {"uv": [0, 0, 0, 3], "texture": "#missing"},
-				"east": {"uv": [11, 13.5, 12.5, 15], "texture": "#texture"},
-				"south": {"uv": [0, 0, 0, 3], "texture": "#missing"},
-				"west": {"uv": [11, 12, 12.5, 13.5], "texture": "#texture"},
-				"up": {"uv": [0, 0, 3, 0], "rotation": 270, "texture": "#missing"},
-				"down": {"uv": [0, 0, 3, 0], "rotation": 90, "texture": "#missing"}
-			}
-		},
-		{
-			"name": "petal4",
-			"from": [6, 8.25, 3],
-			"to": [6, 11.25, 6],
-			"rotation": {"angle": 22.5, "axis": "z", "origin": [6, 8.25, 4.5]},
-			"faces": {
-				"north": {"uv": [0, 0, 0, 3], "texture": "#missing"},
-				"east": {"uv": [12.5, 12, 14, 13.5], "texture": "#texture"},
-				"south": {"uv": [0, 0, 0, 3], "texture": "#missing"},
-				"west": {"uv": [12.5, 13.5, 14, 15], "texture": "#texture"},
-				"up": {"uv": [0, 0, 3, 0], "rotation": 270, "texture": "#missing"},
-				"down": {"uv": [0, 0, 3, 0], "rotation": 90, "texture": "#missing"}
-			}
 		}
 	],
 	"groups": [
@@ -247,8 +190,9 @@
 			"children": [0, 1, 2]
 		},
 		{
-			"name": "flower",
-			"children": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+			"name": "seedpod",
+			"origin": [8, 8.2, 8],
+			"children": [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
 		}
 	]
 }
