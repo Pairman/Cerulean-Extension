@@ -22,6 +22,8 @@ Firstly download and check the resourcepack version to make sure it's compatible
 Yoy can copy the zip or extract it to the following path and then enable it in the game settings.
 ```markdown
 Windows: (Label)/Users/(User)/AppData/Roaming/.minecraft/resourcepacks/
+```
+```markdown
 Linux: /home/(User)/.minecraft/resourcepacks/
 ```
 
