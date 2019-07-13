@@ -10,6 +10,9 @@ Cerulean Extension is a resourcepack which enables you to take a new look of blo
 4. Automatic altering weapons, tools & equipments with damage.
 5. Firstly on JE and then convert to BE if avaliable.
 
+## Present Features
+1.(minecraft:lily_pad) 65 kinds of lily pad & lotus flower & bud & seedpod.
+
 ## Download
 
 | STABILITY | GAME VER | DOWNLOADS |
