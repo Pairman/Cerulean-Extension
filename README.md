@@ -18,7 +18,7 @@ Cerulean Extension is a resourcepack which enables you to take a new look of blo
 | OTHER  | OTHER  | [OTHER](https://github.com/Pairman/Cerulean-Extension/releases) |
 
 ## How To Use
-Firstly download and check the resourcepack version to make sure it's compatible with your game version.
+Download and check the resourcepack version to make sure it's compatible with your game version.
 Yoy can copy the zip or extract it to the following path and then enable it in the game settings.
 ```markdown
 Windows: (Label)/Users/(User)/AppData/Roaming/.minecraft/resourcepacks/
