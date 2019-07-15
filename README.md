@@ -11,8 +11,8 @@ Cerulean Extension is a resourcepack which enables you to take a new look of blo
 5. Firstly on JE and then convert to BE if avaliable.
 
 ## Present Features
-1.(minecraft:lily_pad) 65 kinds of lily pad & lotus flower & bud & seedpod.
-1.(minecraft:acacia_leaves, minecraft:birch_leaves, minecraft:dark_oak_leaves, minecraft:jungle_leaves, minecraft:oak_leaves, minecraft:spruce_leaves) 12 kinds of tree leaves.
+1. (minecraft:lily_pad) 65 kinds of lily pad & lotus flower & bud & seedpod.
+2. (minecraft:acacia_leaves, minecraft:birch_leaves, minecraft:dark_oak_leaves, minecraft:jungle_leaves, minecraft:oak_leaves, minecraft:spruce_leaves) 12 kinds of tree leaves.
 
 ## Download
 
