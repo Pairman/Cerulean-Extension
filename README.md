@@ -1,6 +1,6 @@
 # Cerulean-Extension
 ![cerulean_logo_4k](https://i.loli.net/2019/06/29/5d16fce62227e82458.png)
-## What Is It
+## Introduction
 Cerulean Extension is a resourcepack which enables you to take a new look of blocks and items, etc. in Minecraft JE ( BE? Maybe Later…)
 
 ## To Do List
@@ -10,18 +10,18 @@ Cerulean Extension is a resourcepack which enables you to take a new look of blo
 4. Automatic altering weapons, tools & equipments with damage.
 5. Firstly on JE and then convert to BE if avaliable.
 
-## Present Features
+## Features
 1. (minecraft:lily_pad) 65 kinds of lily pad & lotus flower & bud & seedpod.
 2. (minecraft:acacia_leaves, minecraft:birch_leaves, minecraft:dark_oak_leaves, minecraft:jungle_leaves, minecraft:oak_leaves, minecraft:spruce_leaves) 12 kinds of tree leaves.
 
-## Download
+## Downloads
 
 | STABILITY | GAME VER | DOWNLOADS |
 |:----------: | :----------: | :-----------: |
 | STABLE  | JE1.13+  | [0.0.3beta](https://github.com/Pairman/Cerulean-Extension/releases/download/0.0.3beta/Cerulean-Extension-0.0.3beta.zip) |
 | OTHER  | OTHER  | [OTHER](https://github.com/Pairman/Cerulean-Extension/releases) |
 
-## How To Use
+## Usage
 Download and check the resourcepack version to make sure it's compatible with your game version.
 Yoy can copy the zip or extract it to the following path and then enable it in the game settings.
 ```markdown
