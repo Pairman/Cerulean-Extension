@@ -12,8 +12,6 @@ Cerulean Extension is a resourcepack which enables you to take a new look of blo
 
 ## Features
 1. (minecraft:lily_pad) 65 kinds of lily pad & lotus flower & bud & seedpod.
-2. (minecraft:acacia_leaves, minecraft:birch_leaves, minecraft:dark_oak_leaves, minecraft:jungle_leaves, minecraft:oak_leaves, minecraft:spruce_leaves) 12 kinds of tree leaves.
-
 ## Downloads
 
 | STABILITY | GAME VER | DOWNLOADS |
