@@ -30,7 +30,7 @@ Linux: /home/(User)/.minecraft/resourcepacks/
 ```
 
 ## Contact
-Bugs occured or have better ideas? You can contact me(Pairman) via :
+Bugs occurred or have better ideas? You can contact me(Pairman) via :
 
 [Gmail:pairmanxlr@gmail.com](mailto:pairmanxlr@gmail.com)
 
